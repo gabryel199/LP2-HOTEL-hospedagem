@@ -83,7 +83,7 @@
         "cliente_id": 1,
         "funcionario_id": 1,
         "hotel_id": 1,
-        "hospedagem_id": "NULL"
+        "hospedagem_id": ""
       },
       {
         "id": 2,
@@ -94,7 +94,7 @@
         "cliente_id": 5,
         "funcionario_id": 2,
         "hotel_id": 1,
-        "hospedagem_id": "NULL"
+        "hospedagem_id": ""
       },
       {
         "id": 3,
@@ -103,7 +103,7 @@
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
         "cliente_id": 2,
-        "funcionario_id": "NULL",
+        "funcionario_id": "",
         "hotel_id": 1,
         "hospedagem_id": 1
       },
@@ -114,9 +114,9 @@
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
         "cliente_id": 3,
-        "funcionario_id": "NULL",
+        "funcionario_id": "",
         "hotel_id": 1,
-        "hospedagem_id": "NULL"
+        "hospedagem_id": ""
       },
       {
         "id": 5,
@@ -125,7 +125,7 @@
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
         "cliente_id": 4,
-        "funcionario_id": "NULL",
+        "funcionario_id": "",
         "hotel_id": 1,
         "hospedagem_id": 3
       }
