@@ -16,7 +16,8 @@
         "funcionario_id": 1,
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 1,
-        "quartoHospedagem_id": 1
+        "quartoHospedagem_id": 1,
+        "reserva_id": ""
       },
       {
         "id": 2,
@@ -34,7 +35,8 @@
         "funcionario_id": 1,
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 2,
-        "quartoHospedagem_id": 2
+        "quartoHospedagem_id": 2,
+        "reserva_id": ""
       },
       {
         "id": 3,
@@ -52,7 +54,8 @@
         "funcionario_id": 1,
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 3,
-        "quartoHospedagem_id": 3
+        "quartoHospedagem_id": 3,
+        "reserva_id": 3
       },
       {
         "id": 4,
@@ -70,7 +73,8 @@
         "funcionario_id": 1,
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 4,
-        "quartoHospedagem_id": 4
+        "quartoHospedagem_id": 4,
+        "reserva_id": 1
       }
     ],
     "reserva": [
@@ -82,8 +86,7 @@
         "valorResrva": 2000,
         "cliente_id": 1,
         "funcionario_id": 1,
-        "hotel_id": 1,
-        "hospedagem_id": ""
+        "hotel_id": 1
       },
       {
         "id": 2,
@@ -93,8 +96,7 @@
         "valorResrva": 2000,
         "cliente_id": 5,
         "funcionario_id": 2,
-        "hotel_id": 1,
-        "hospedagem_id": ""
+        "hotel_id": 1
       },
       {
         "id": 3,
@@ -104,8 +106,7 @@
         "valorResrva": 2000,
         "cliente_id": 2,
         "funcionario_id": "",
-        "hotel_id": 1,
-        "hospedagem_id": 1
+        "hotel_id": 1
       },
       {
         "id": 4,
@@ -115,8 +116,7 @@
         "valorResrva": 2000,
         "cliente_id": 3,
         "funcionario_id": "",
-        "hotel_id": 1,
-        "hospedagem_id": ""
+        "hotel_id": 1
       },
       {
         "id": 5,
@@ -126,8 +126,7 @@
         "valorResrva": 2000,
         "cliente_id": 4,
         "funcionario_id": "",
-        "hotel_id": 1,
-        "hospedagem_id": 3
+        "hotel_id": 1
       }
     ],
   "avaliacaoHospedagem": [
