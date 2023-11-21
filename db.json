@@ -2,7 +2,7 @@
   "hospedagem": [
       {
         "id": 1,
-        "status": "ativo",
+        "status": 1,
         "dataInicio": "2020-10-10",
         "dataFim1": "2020-10-10",
         "dataFim2": "2020-10-10",
@@ -21,7 +21,7 @@
       },
       {
         "id": 2,
-        "status": "concluido",
+        "status": 5,
         "dataInicio": "2020-10-10",
         "dataFim1": "2020-10-10",
         "dataFim2": "2020-10-10",
@@ -40,7 +40,7 @@
       },
       {
         "id": 3,
-        "status": "concluido",
+        "status": 5,
         "dataInicio": "2020-10-10",
         "dataFim1": "2020-10-10",
         "dataFim2": "2020-10-10",
@@ -59,7 +59,7 @@
       },
       {
         "id": 4,
-        "status": "ativo",
+        "status": 2,
         "dataInicio": "2020-10-10",
         "dataFim1": "2020-10-10",
         "dataFim2": "2020-10-10",
@@ -80,7 +80,7 @@
     "reserva": [
       {
         "id": 1,
-        "status": "ativo pago",
+        "status": 1,
         "dataInicio": "2020-10-10",
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
@@ -90,7 +90,7 @@
       },
       {
         "id": 2,
-        "status": "ativo nao pago",
+        "status": 2,
         "dataInicio": "2020-10-10",
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
@@ -100,7 +100,7 @@
       },
       {
         "id": 3,
-        "status": "hospedagem",
+        "status": 3,
         "dataInicio": "2020-10-10",
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
@@ -110,7 +110,7 @@
       },
       {
         "id": 4,
-        "status": "cancelada",
+        "status": 4,
         "dataInicio": "2020-10-10",
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
@@ -120,7 +120,7 @@
       },
       {
         "id": 5,
-        "status": "concluida",
+        "status": 5,
         "dataInicio": "2020-10-10",
         "dataFim": "2020-10-10",
         "valorResrva": 2000,
