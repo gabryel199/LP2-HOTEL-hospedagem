@@ -86,7 +86,8 @@
         "valorResrva": 2000,
         "cliente_id": 1,
         "funcionario_id": 1,
-        "hotel_id": 1
+        "hotel_id": 1,
+        "tipoQuarto_id": 1
       },
       {
         "id": 2,
@@ -96,7 +97,8 @@
         "valorResrva": 2000,
         "cliente_id": 5,
         "funcionario_id": 2,
-        "hotel_id": 1
+        "hotel_id": 1,
+        "tipoQuarto_id": 2
       },
       {
         "id": 3,
@@ -106,7 +108,8 @@
         "valorResrva": 2000,
         "cliente_id": 2,
         "funcionario_id": "",
-        "hotel_id": 1
+        "hotel_id": 1,
+        "tipoQuarto_id": 3
       },
       {
         "id": 4,
@@ -116,7 +119,8 @@
         "valorResrva": 2000,
         "cliente_id": 3,
         "funcionario_id": "",
-        "hotel_id": 1
+        "hotel_id": 1,
+        "tipoQuarto_id": 4
       },
       {
         "id": 5,
@@ -126,7 +130,8 @@
         "valorResrva": 2000,
         "cliente_id": 4,
         "funcionario_id": "",
-        "hotel_id": 1
+        "hotel_id": 1,
+        "tipoQuarto_id": 2
       }
     ],
   "avaliacaoHospedagem": [
