@@ -21,7 +21,7 @@
       },
       {
         "id": 2,
-        "status": 5,
+        "status": 6,
         "dataInicio": "2020-10-10",
         "dataFim1": "2020-10-10",
         "dataFim2": "2020-10-10",
@@ -40,7 +40,7 @@
       },
       {
         "id": 3,
-        "status": 5,
+        "status": 6,
         "dataInicio": "2020-10-10",
         "dataFim1": "2020-10-10",
         "dataFim2": "2020-10-10",
