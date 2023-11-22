@@ -17,7 +17,8 @@
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 1,
         "quartoHospedagem_id": 1,
-        "reserva_id": ""
+        "reserva_id": "",
+        "quartoHospedagem": [{"tipoQuarto": "Suite Standart", "num": 1234, "qtd":1}, {"tipoQuarto": "Master", "num": 4343, "qtd":1}]
       },
       {
         "id": 2,
@@ -36,7 +37,8 @@
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 2,
         "quartoHospedagem_id": 2,
-        "reserva_id": ""
+        "reserva_id": "",
+        "quartoHospedagem": [{"tipoQuarto": "Suite Standart", "num": 1234, "qtd":1}, {"tipoQuarto": "Master", "num": 4343, "qtd":1}]
       },
       {
         "id": 3,
@@ -55,7 +57,8 @@
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 3,
         "quartoHospedagem_id": 3,
-        "reserva_id": 3
+        "reserva_id": 3,
+        "quartoHospedagem": [{"tipoQuarto": "Suite Standart", "num": 1234, "qtd":1}, {"tipoQuarto": "Master", "num": 4343, "qtd":1}]
       },
       {
         "id": 4,
@@ -74,7 +77,8 @@
         "hotel_id": 1,
         "avaliacoesHospedagem_id": 4,
         "quartoHospedagem_id": 4,
-        "reserva_id": 1
+        "reserva_id": 1,
+        "quartoHospedagem": [{"tipoQuarto": "Suite Standart", "num": 1234, "qtd":1}, {"tipoQuarto": "Master", "num": 4343, "qtd":1}]
       }
     ],
     "reserva": [
