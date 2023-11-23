@@ -91,7 +91,8 @@
         "cliente_id": 1,
         "funcionario_id": 1,
         "hotel_id": 1,
-        "tipoQuarto_id": 1
+        "tipoQuarto_id": 1,
+        "listaQuartos": [{"id": 1, "tipoQuarto": 1, "qtd":2}]
       },
       {
         "id": 2,
@@ -102,7 +103,8 @@
         "cliente_id": 5,
         "funcionario_id": 2,
         "hotel_id": 1,
-        "tipoQuarto_id": 2
+        "tipoQuarto_id": 2,
+        "listaQuartos": [{"id": 1, "tipoQuarto": 1, "qtd":1},{"id": 2, "tipoQuarto": 2, "qtd":1}]
       },
       {
         "id": 3,
@@ -113,7 +115,8 @@
         "cliente_id": 2,
         "funcionario_id": "",
         "hotel_id": 1,
-        "tipoQuarto_id": 3
+        "tipoQuarto_id": 3,
+        "listaQuartos": [{"id": 1, "tipoQuarto": 1, "qtd":1},{"id": 2, "tipoQuarto": 2, "qtd":1},{"id": 3, "tipoQuarto": 3, "qtd":1}]
       },
       {
         "id": 4,
@@ -124,7 +127,8 @@
         "cliente_id": 3,
         "funcionario_id": "",
         "hotel_id": 1,
-        "tipoQuarto_id": 4
+        "tipoQuarto_id": 4,
+        "listaQuartos": [{"id": 1, "tipoQuarto": 3, "qtd":1},{"id": 2, "tipoQuarto": 4, "qtd":2}]
       },
       {
         "id": 5,
@@ -135,7 +139,8 @@
         "cliente_id": 4,
         "funcionario_id": "",
         "hotel_id": 1,
-        "tipoQuarto_id": 2
+        "tipoQuarto_id": 2,
+        "listaQuartos": [{"id": 1, "tipoQuarto": 3, "qtd":1},{"id": 2, "tipoQuarto": 4, "qtd":2}]
       }
     ],
   "avaliacaoHospedagem": [
