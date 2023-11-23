@@ -78,7 +78,7 @@
         "avaliacoesHospedagem_id": 4,
         "quartoHospedagem_id": 4,
         "reserva_id": 1,
-        "listaQuartos": [{"id": 1, "tipoQuarto": 1, "num": 1, "qtd":1}, {"id": 2, "tipoQuarto": 2, "num": 2, "qtd":1}, {"id": 3, "tipoQuarto": 3, "num": 3, "qtd":1}, {"id": 4, "tipoQuarto": 4, "num": 4, "qtd":1}]
+        "listaQuartos": [{"id": 1, "tipoQuarto": 2, "num": 1, "qtd":1}, {"id": 2, "tipoQuarto": 2, "num": 2, "qtd":1}, {"id": 3, "tipoQuarto": 4, "num": 3, "qtd":1}, {"id": 4, "tipoQuarto": 4, "num": 4, "qtd":1}]
       }
     ],
     "reserva": [
