@@ -18,7 +18,33 @@
         "avaliacoesHospedagem_id": 1,
         "quartoHospedagem_id": 1,
         "reserva_id": "",
-        "listaQuartos": [{"id": 1, "tipoQuarto": 1, "num": 1, "qtd":1}, {"id": 2, "tipoQuarto": 2, "num": 2, "qtd":1}]
+        "listaQuartos": [{"id": 1, "tipoQuarto": 1, "num": 1, "qtd":1}, {"id": 2, "tipoQuarto": 2, "num": 2, "qtd":1}],
+        "produtoHospedagem": [
+                                {
+                                  "id": 1,
+                                  "quant": 1,
+                                  "valorTotal": 30,
+                                  "produto_id": 1
+                                },
+                                {
+                                  "id": 2,
+                                  "quant": 2,
+                                  "valorTotal": 30,
+                                  "produto_id": 2
+                                },
+                                {
+                                  "id": 3,
+                                  "quant": 3,
+                                  "valorTotal": 30,
+                                  "produto_id": 3
+                                },
+                                {
+                                  "id": 4,
+                                  "quant": 4,
+                                  "valorTotal": 30,
+                                  "produto_id": 4
+                                }
+                              ]
       },
       {
         "id": 2,
