@@ -169,25 +169,25 @@
       "hotel_id": 1
     },
     {
-      "id": 1,
+      "id": 5,
       "nota": 4,
       "comentario": "gostei",
       "hotel_id": 4
     },
     {
-      "id": 2,
+      "id": 6,
       "nota": 4.5,
       "comentario": "gostei",
       "hotel_id": 3
     },
     {
-      "id": 3,
+      "id": 7,
       "nota": 5,
       "comentario": "perfeito",
       "hotel_id": 2
     },
     {
-      "id": 4,
+      "id": 8,
       "nota": 2,
       "comentario": "não gostei",
       "hotel_id": 2
