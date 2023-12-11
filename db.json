@@ -147,22 +147,50 @@
     {
       "id": 1,
       "nota": 4,
-      "comentario": "gostei"
+      "comentario": "gostei",
+      "hotel_id": 1
     },
     {
       "id": 2,
       "nota": 4.5,
-      "comentario": "gostei"
+      "comentario": "gostei",
+      "hotel_id": 1
     },
     {
       "id": 3,
       "nota": 5,
-      "comentario": "perfeito"
+      "comentario": "perfeito",
+      "hotel_id": 1
     },
     {
       "id": 4,
       "nota": 2,
-      "comentario": "não gostei"
+      "comentario": "não gostei",
+      "hotel_id": 1
+    },
+    {
+      "id": 1,
+      "nota": 4,
+      "comentario": "gostei",
+      "hotel_id": 4
+    },
+    {
+      "id": 2,
+      "nota": 4.5,
+      "comentario": "gostei",
+      "hotel_id": 3
+    },
+    {
+      "id": 3,
+      "nota": 5,
+      "comentario": "perfeito",
+      "hotel_id": 2
+    },
+    {
+      "id": 4,
+      "nota": 2,
+      "comentario": "não gostei",
+      "hotel_id": 2
     }
   ],
   "avaliacaoQuarto": [
