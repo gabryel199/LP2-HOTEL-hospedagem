@@ -169,32 +169,38 @@
     {
       "id": 1,
       "nota": 3,
-      "comentario": "xxxxxxx"
+      "comentario": "xxxxxxx",
+      "tipoQuarto_id": 1
     },
     {
       "id": 2,
       "nota": 3,
-      "comentario": "xxxxxxx"
+      "comentario": "xxxxxxx",
+      "tipoQuarto_id": 1
     },
     {
       "id": 3,
       "nota": 5,
-      "comentario": "xxxxxxx"
+      "comentario": "xxxxxxx",
+      "tipoQuarto_id": 1
     },
     {
       "id": 4,
       "nota": 4,
-      "comentario": "xxxxxxx"
+      "comentario": "xxxxxxx",
+      "tipoQuarto_id": 2
     },
     {
       "id": 5,
       "nota": 3,
-      "comentario": "xxxxxxx"
+      "comentario": "xxxxxxx",
+      "tipoQuarto_id": 3
     },
     {
       "id": 6,
       "nota": 5,
-      "comentario": "xxxxxxx"
+      "comentario": "xxxxxxx",
+      "tipoQuarto_id": 4
     }
   ]
 }
