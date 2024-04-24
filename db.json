@@ -1,5 +1,5 @@
 {
-  "hospedagem": [
+  "hospedagens": [
       {
         "id": 1,
         "status": 1,
@@ -107,7 +107,7 @@
         "listaQuartos": [{"id": 1, "tipoQuarto": 2, "num": 1, "qtd":1}, {"id": 2, "tipoQuarto": 2, "num": 2, "qtd":1}, {"id": 3, "tipoQuarto": 4, "num": 3, "qtd":1}, {"id": 4, "tipoQuarto": 4, "num": 4, "qtd":1}]
       }
     ],
-    "reserva": [
+    "reservas": [
       {
         "id": 1,
         "status": 1,
@@ -169,7 +169,7 @@
         "listaQuartos": [{"id": 1, "tipoQuarto": 3, "qtd":1},{"id": 2, "tipoQuarto": 4, "qtd":2}]
       }
     ],
-  "avaliacaoHospedagem": [
+  "avaliacaoHospedagens": [
     {
       "id": 1,
       "nota": 4,
@@ -219,7 +219,7 @@
       "hotel_id": 2
     }
   ],
-  "avaliacaoQuarto": [
+  "avaliacaoQuartos": [
     {
       "id": 1,
       "nota": 3,
